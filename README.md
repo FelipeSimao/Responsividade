@@ -56,7 +56,7 @@ O "design flexível" é possível em design mais simples onde é necessário ape
 
 ## Demonstração
 
-![Logo](https://www.kadunew.com/blog/wp-content/uploads/2014/12/mobile-first-ou-desktop-first.gif)
+![Logo]([https://www.kadunew.com/blog/wp-content/uploads/2014/12/mobile-first-ou-desktop-first.gif](https://user-images.githubusercontent.com/78655591/170402095-67e043fe-f2fe-4f83-91e0-ab209dd5d365.gif))
 
 
 ## Mobile First é usado por
