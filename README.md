@@ -44,12 +44,11 @@ O "design flexível" é possível em design mais simples onde é necessário ape
   }
 
   // Pode ser usado tambem o flexbox ou grid:
+  // o flex-wrap permite a quebra de linha.
 
   Container{
     display: flex;
     flex-wrap: wrap;
-
-  // o flex-wrap permite a quebra de linha.
 
   }
 ```
